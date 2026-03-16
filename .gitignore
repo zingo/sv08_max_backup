@@ -1,0 +1,12 @@
+.env
+secrets.conf
+*.swp
+*.tmp
+printer-[0-9]*_[0-9]*.cfg
+众创klipper.tft.bak
+*.bkp
+*.csv
+config-20250928-220541.zip
+config-20251103-204248.zip
+config-20251103-212717.zip
+ShakeTune_results
